@@ -14,7 +14,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Yousaf&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Yousaf&layout=compact&theme=blue-green&langs_count=6&custom_title=Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Yousaf&layout=compact&theme=blue-green&langs_count=6&custom_title=Python, C, C++, JavaScript, HTML, CSS)
 
 
 
